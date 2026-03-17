@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.img-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button {
+    padding: 0.5rem;
+}
+
+.d-block {
+    display: block;
+}
+
+.d-none {
+    display: none;
+}
